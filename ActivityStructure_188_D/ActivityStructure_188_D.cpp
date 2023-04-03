@@ -29,4 +29,11 @@ int main()
 
 	cout << "\nNim : " << mhs1.nim;
 	cout << "\nNama : " << mhs1.nama;
+	cout << "\nAlamat : " << mhs1.alamat;
+	cout << "\nUmur : " << mhs1.umur;
+
+	cout << "\nNim : " << mhs2.nim;
+	cout << "\nNama : " << mhs2.nama;
+	cout << "\nAlamat : " << mhs2.alamat;
+	cout << "\nUmur : " << mhs2.umur;
 };
